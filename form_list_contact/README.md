@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://flutter.github.io/assets-for-api-docs/assets/material/scaffold_bottom_app_bar.png" alt="Diseño del Scaffold"/>
+()
 ## Getting Started
 
 This project is a starting point for a Flutter application.

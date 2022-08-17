@@ -51,6 +51,21 @@ class MyApp extends StatelessWidget {
     );
   }
 
+  /*
+  Widget _body() {
+      return Column(
+        children: <Widget>[
+          _categorySelector(),
+          _titleValue(),
+          _detalle(),
+          _submit(),
+        ],
+      );
+    }
+     Widget _categorySelector() => Placeholder(
+      //fallbackHeight: 80,
+      );
+    */
   _textSection() => Container(
         padding: const EdgeInsets.all(32),
         child: const Text(
